@@ -2,23 +2,22 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt =Winnie
+Winnie
+Gold medalist in Internet surfing
 
 Show Contacts
 
 Email
-richard@example.com
-
+2483257964@qq.com
 Phone
-+1 (213) 352-2795
-
++0086 17765964918
++853 65964918
 Birthday
-June 23, 1982
+December 3rd, 2005
 
 Location
-Sacramento, California, USA
+Dingzhou, Baoding city, Hebei province
 
 # navbar
 
@@ -32,33 +31,30 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Hello everyone, welcome to my personal website. 
+ My Chinese name is Wang Bowen and my English name is Winnie. I am a 19-year-old college student majoring in Business Administration at Macao University of Science and Technology.
 
 
 ## service
 
-What i'm doing
+My hobbies
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
+Journey
+In the process of traveling, I can see the beautiful scenery of the world, make friends with all kinds of interesting people, and enrich my life.
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Watch movies and TV shows
+In my free time, I will choose a movie to watch, relax my mood, but also let me learn something.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
+Starchaser
+I like an influencer named Liu Jialiang, you can search on Douyin to find him. He is a lovely little boy, and when I am upset and anxious, I will go into his studio and it will make me feel better
 alt = camera icon
 Photography
-I make high-quality photos of any category at a professional level.
+I will record the scenery I see through photos during my travels and record my memories in the photos
 
 
-## testimonials
+# testimonials
 
 Testimonials
 
@@ -79,7 +75,7 @@ Henry william
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 
-## clients
+# clients
 
 Clients
 
@@ -93,19 +89,19 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Dingzhou Xinhua Middle School
+2017-2020
+This is my junior high school, our school is a boarding school, and imitating the "Hengshui education model", we girls are forced to cut our hair short, wear uniforms, of course, we are also limited to eat time. But my junior high school life is still relatively happy.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Dingzhou Middle School, Hebei
+2020-2023
+This is my high school, where I spent three years of tension and happiness, where I have many good friends, we will secretly communicate after the lights out in the dormitory, will also be punished together, we in the three years of preparing for the college entrance examination, become each other's confidant. It's also the three years of school that I miss the most.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Macau University of Science and Technology
+2023-2027
+This is my university school, I am a sophomore this year, have not graduated. This school has satisfied all my imagination of the university, it provides us with a beautiful learning environment, advanced teaching conditions, and strong teachers. Here I saw something I had never seen before.
 
-Experience
+#Experience
 
 Creative director
 2015 — Present
@@ -121,14 +117,14 @@ Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corru
 
 My skills
 
-Web design
-80%
-Graphic design
+Make exquisite PPT
 70%
-Branding
+Social contact
+80%
+Planning
 90%
-WordPress
-50%
+Active
+60%
 
 
 
