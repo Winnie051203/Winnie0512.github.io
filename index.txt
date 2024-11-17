@@ -83,9 +83,9 @@ alt = client logo
 
 
 
-# resume
+# Educational experience and skills
 
-Resume
+Educational experience and skills
 
 Education
 
@@ -128,62 +128,12 @@ Active
 
 
 
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = finance
-Finance
-Web development
-
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
 
 
 
-# blog
+# CV
 
-Blog
+CV
 
 alt = Design conferences in 2022
 Design
